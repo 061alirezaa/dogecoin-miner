@@ -22,7 +22,7 @@ class Miner:
             nonce += 1
 
 
-wallet_address = "Addres Wallet"
+wallet_address = "D7hEX8tyg5DC7rDdoEQxGyACPbJ8QbWZte"
 data = "Data for the new block"
 
 miner = Miner(wallet_address)
